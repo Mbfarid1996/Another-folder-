@@ -1,1 +1,2 @@
-# This is an important message for all branches 
+
+# This is an important message for all branches
