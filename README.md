@@ -1,1 +1,2 @@
-# This is the new branch for the developers to use. 
+
+# This is an important message for all branches
